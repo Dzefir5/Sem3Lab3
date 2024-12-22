@@ -1,0 +1,101 @@
+a: 1, 1, 1
+again: 2
+all: 1
+and: 1
+are: 1, 1
+as: 1, 1
+at: 1
+away: 2
+bear: 2, 2
+believe: 1
+best: 1
+bloom: 1
+buoyant: 2
+but: 1
+by: 1
+calls: 1
+can: 2
+cheerily: 1
+clouds: 1
+courage: 2
+dark: 1
+day: 1
+death: 1
+despair: 2
+dream: 1
+elastic: 2
+enjoy: 1
+er: 2
+fall: 1
+fearlessly: 2
+fell: 2
+flit: 1
+fly: 1
+for: 2
+foretells: 1
+gloom: 1
+gloriously: 2
+golden: 2
+gratefully: 1
+heavy: 2
+her: 2
+hope: 2, 2
+hours: 1
+if: 1
+in: 1
+is: 1
+its: 1
+lament: 1
+life: 1, 1
+little: 1
+make: 1
+manfully: 2
+merrily: 1
+morning: 1
+not: 1
+o: 2
+of: 1
+oft: 1
+oh: 1
+our: 1
+pleasant: 1
+quell: 2
+rain: 1
+rapidly: 1
+roses: 1
+s: 1
+sages: 1
+say: 1
+seems: 2
+she: 2
+shower: 1
+so: 1
+sometimes: 1
+sorrow: 2
+springs: 2
+steps: 1
+still: 2, 2
+strong: 2
+sunny: 1
+sway: 2
+test: 1, 1
+the: 1, 1
+them: 1
+there: 1
+these: 1
+they: 1
+though: 1
+times: 1
+to: 2, 2
+transient: 1
+trial: 2
+unconquered: 2
+us: 2
+victoriously: 2
+well: 2
+what: 1
+why: 1
+will: 1
+win: 2
+wings: 2
+yet: 2

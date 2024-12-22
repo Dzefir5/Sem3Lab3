@@ -1,0 +1,183 @@
+a: 1, 1, 1, 3, 3
+about: 1, 3
+adventures: 2, 2
+afternoon: 1
+all: 1, 1, 1
+always: 3
+an: 3
+and: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+anyway: 2
+as: 2, 4, 4
+at: 1
+back: 2, 2
+be: 2
+because: 2
+been: 1
+before: 1
+belongs: 4
+blankets: 1
+books: 1, 1
+boots: 1
+bout: 3
+boxes: 1
+bugged: 3
+but: 2
+by: 1, 1
+called: 3
+can: 4
+cigars: 1, 1
+clothes: 1
+considerable: 3
+could: 2
+counts: 3
+crawled: 2
+dat: 3
+dem: 3
+dey: 3
+did: 2
+didn: 2, 2
+died: 2
+do: 4
+dollars: 4
+dressed: 3
+drownded: 2
+dukes: 3
+each: 3
+earls: 3
+er: 4
+ever: 1
+everything: 4
+eyes: 3
+ferryboat: 1
+fixed: 2
+for: 2
+found: 1
+gang: 1
+gaudy: 3
+general: 1
+get: 2, 2, 2, 2, 2, 4, 4
+git: 4
+gone: 2
+good: 1
+got: 1
+grace: 3
+had: 1, 3
+hadn: 1
+hain: 3
+happened: 1
+have: 4
+having: 1
+he: 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
+head: 3
+hearn: 3
+her: 2
+him: 2, 2, 2, 2
+home: 2
+how: 3, 3
+i: 1, 1, 3, 3, 3
+if: 2, 2, 4
+in: 1, 1, 3
+inside: 1
+interested: 3
+it: 2, 2, 4
+jim: 1, 3, 3
+judged: 2
+just: 4
+k: 4
+kinds: 2
+king: 3
+kings: 3, 3
+know: 3
+laid: 1
+level: 3
+lives: 1
+lordship: 3
+lot: 1
+majesty: 3
+many: 3
+me: 1
+miss: 2
+mister: 3
+month: 4
+more: 2
+most: 3
+much: 3
+nearly: 2
+neither: 1
+nigger: 3
+no: 2
+none: 3
+of: 1, 1, 1, 1, 1, 3
+off: 1, 1
+ole: 3
+on: 2
+onless: 3
+other: 1, 3
+our: 1
+out: 3
+over: 1
+pack: 4
+prime: 1
+put: 3
+raft: 2
+read: 3
+reading: 1
+reward: 2
+rich: 1
+right: 2
+s: 3, 3
+said: 2, 2, 2
+saved: 2, 2, 2
+says: 3
+sell: 2
+send: 2
+skasely: 3
+so: 2
+sollermun: 3
+sorts: 1
+south: 2
+spyglass: 1
+stead: 3
+stole: 1
+style: 3
+such: 3
+sure: 2
+t: 1, 3
+talking: 1
+texas: 2
+that: 2
+the: 1, 1, 1, 1, 1, 1, 1, 1, 1
+them: 4
+then: 2
+these: 2
+they: 3, 3
+things: 1
+this: 1
+thousand: 4
+three: 1
+time: 1
+to: 2, 2, 4
+told: 1
+truck: 1
+turned: 1
+um: 3, 3
+un: 3, 3
+uncommon: 3
+up: 1
+want: 2, 4, 4
+was: 1, 3, 3, 3
+watson: 2
+we: 1, 1, 1, 1
+well: 2
+went: 2
+what: 1
+when: 1
+whoever: 2
+why: 4
+with: 2
+woods: 1
+would: 2, 2, 2
+wreck: 1, 1
+yards: 4
+you: 3
+your: 3, 3, 3

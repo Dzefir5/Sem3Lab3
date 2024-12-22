@@ -1,0 +1,5 @@
+D:/CLionProjects/Sem3Lab4/cmake-build-debug/CMakeFiles/Sem3Lab4.dir
+D:/CLionProjects/Sem3Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Sem3Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/Sem3Lab4/cmake-build-debug/CMakeFiles/Sem3Lab4_autogen_timestamp_deps.dir
+D:/CLionProjects/Sem3Lab4/cmake-build-debug/CMakeFiles/Sem3Lab4_autogen.dir

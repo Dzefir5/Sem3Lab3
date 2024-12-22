@@ -1,0 +1,20 @@
+# ninja log v6
+662	5637	7564794717165599	CMakeFiles/Sem3Lab4.dir/main.cpp.obj	7adb8eb180a2e8cf
+661	1320	7564891377278894	CMakeFiles/Sem3Lab4.dir/Pages.cpp.obj	8efbf4c40bd5880a
+129	905	7564891316535823	CMakeFiles/Sem3Lab4.dir/Rows.cpp.obj	d4e5b1f6a214050c
+664	6215	7564794717186867	CMakeFiles/Sem3Lab4.dir/UI/TextViewer.cpp.obj	7e8cdf12346945b6
+38	2070	7564758157744814	build.ninja	8dd616d95a9bc03d
+20	653	7564891376724738	Sem3Lab4_autogen/timestamp	728a138d7eb63ad7
+20	653	7564891376724738	Sem3Lab4_autogen/mocs_compilation.cpp	728a138d7eb63ad7
+20	653	7564891376724738	D:/CLionProjects/Sem3Lab4/cmake-build-debug/Sem3Lab4_autogen/timestamp	728a138d7eb63ad7
+20	653	7564891376724738	D:/CLionProjects/Sem3Lab4/cmake-build-debug/Sem3Lab4_autogen/mocs_compilation.cpp	728a138d7eb63ad7
+659	3673	7564794717145579	CMakeFiles/Sem3Lab4.dir/Sem3Lab4_autogen/mocs_compilation.cpp.obj	dcdac4006199c2d7
+6215	6343	7564794772705494	Sem3Lab4.exe	21d667d0281d6d9a
+25	728	7564891431136356	Sem3Lab4_autogen/timestamp	728a138d7eb63ad7
+25	728	7564891431136356	Sem3Lab4_autogen/mocs_compilation.cpp	728a138d7eb63ad7
+25	728	7564891431136356	D:/CLionProjects/Sem3Lab4/cmake-build-debug/Sem3Lab4_autogen/timestamp	728a138d7eb63ad7
+25	728	7564891431136356	D:/CLionProjects/Sem3Lab4/cmake-build-debug/Sem3Lab4_autogen/mocs_compilation.cpp	728a138d7eb63ad7
+728	3676	7564891431634045	CMakeFiles/Sem3Lab4.dir/Sem3Lab4_autogen/mocs_compilation.cpp.obj	dcdac4006199c2d7
+730	5437	7564891431649880	CMakeFiles/Sem3Lab4.dir/main.cpp.obj	7adb8eb180a2e8cf
+733	6028	7564891431683904	CMakeFiles/Sem3Lab4.dir/UI/TextViewer.cpp.obj	7e8cdf12346945b6
+6029	6222	7564891484638891	Sem3Lab4.exe	21d667d0281d6d9a
